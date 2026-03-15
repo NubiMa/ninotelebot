@@ -1,0 +1,16 @@
+[Unit]
+Description=Nino Reminder Cron Worker
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+WorkingDirectory=/var/www/nino_bot
+ExecStart=/usr/bin/php /var/www/nino_bot/cron.php
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
