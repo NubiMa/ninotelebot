@@ -1,4 +1,4 @@
-# Doujinshi BOT
+# NinoBOT
 
 This is a Telegram bot built with native PHP and uses `vlucas/phpdotenv` for environment handling.
 
