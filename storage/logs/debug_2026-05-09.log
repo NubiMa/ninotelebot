@@ -1,0 +1,62 @@
+[2026-05-09 15:01:43][debug][PollingHandler] Long-polling started
+[2026-05-09 15:01:44][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[{\"update_id\":48514392,\n\"message\":{\"message_id\":1395,\"from\":{\"id\":7309669001,\"is_bot\":false,\"first_name\":\"Fams\",\"username\":\"famsma\",\"language_code\":\"en\"},\"chat\":{\"id\":7309669001,\"f"}
+[2026-05-09 15:01:44][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":3}
+[2026-05-09 15:01:45][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 15:03:51][debug][PollingHandler] Long-polling started
+[2026-05-09 22:03:56][debug][Cron] Reminder worker started {"owner_id":"7309669001"}
+[2026-05-09 15:03:58][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[{\"update_id\":48514392,\n\"message\":{\"message_id\":1395,\"from\":{\"id\":7309669001,\"is_bot\":false,\"first_name\":\"Fams\",\"username\":\"famsma\",\"language_code\":\"en\"},\"chat\":{\"id\":7309669001,\"f"}
+[2026-05-09 15:03:58][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":3}
+[2026-05-09 15:03:59][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 22:08:52][debug][Cron] Reminder worker started {"owner_id":"7309669001"}
+[2026-05-09 15:08:56][debug][PollingHandler] Long-polling started
+[2026-05-09 15:09:07][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[{\"update_id\":48514392,\n\"message\":{\"message_id\":1395,\"from\":{\"id\":7309669001,\"is_bot\":false,\"first_name\":\"Fams\",\"username\":\"famsma\",\"language_code\":\"en\"},\"chat\":{\"id\":7309669001,\"f"}
+[2026-05-09 15:09:07][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":3}
+[2026-05-09 15:09:08][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 22:09:10][debug][TelegramBot] sendMessage → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":{\"message_id\":1398,\"from\":{\"id\":8660522615,\"is_bot\":true,\"first_name\":\"Nino\",\"username\":\"bakarfemboy_bot\"},\"chat\":{\"id\":7309669001,\"first_name\":\"Fams\",\"username\":\"famsma\",\"type\":\"p"}
+[2026-05-09 22:09:10][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":3}
+[2026-05-09 22:09:12][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 22:09:14][debug][TelegramBot] sendMessage → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":{\"message_id\":1399,\"from\":{\"id\":8660522615,\"is_bot\":true,\"first_name\":\"Nino\",\"username\":\"bakarfemboy_bot\"},\"chat\":{\"id\":7309669001,\"first_name\":\"Fams\",\"username\":\"famsma\",\"type\":\"p"}
+[2026-05-09 22:09:14][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":5}
+[2026-05-09 22:09:16][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 22:09:17][debug][TelegramBot] sendMessage → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":{\"message_id\":1400,\"from\":{\"id\":8660522615,\"is_bot\":true,\"first_name\":\"Nino\",\"username\":\"bakarfemboy_bot\"},\"chat\":{\"id\":7309669001,\"first_name\":\"Fams\",\"username\":\"famsma\",\"type\":\"p"}
+[2026-05-09 22:09:18][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[{\"update_id\":48514395,\n\"message\":{\"message_id\":1401,\"from\":{\"id\":7309669001,\"is_bot\":false,\"first_name\":\"Fams\",\"username\":\"famsma\",\"language_code\":\"en\"},\"chat\":{\"id\":7309669001,\"f"}
+[2026-05-09 22:09:18][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":5}
+[2026-05-09 22:09:19][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 22:09:21][debug][TelegramBot] sendMessage → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":{\"message_id\":1402,\"from\":{\"id\":8660522615,\"is_bot\":true,\"first_name\":\"Nino\",\"username\":\"bakarfemboy_bot\"},\"chat\":{\"id\":7309669001,\"first_name\":\"Fams\",\"username\":\"famsma\",\"type\":\"p"}
+[2026-05-09 22:09:31][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[{\"update_id\":48514396,\n\"message\":{\"message_id\":1403,\"from\":{\"id\":7309669001,\"is_bot\":false,\"first_name\":\"Fams\",\"username\":\"famsma\",\"language_code\":\"en\"},\"chat\":{\"id\":7309669001,\"f"}
+[2026-05-09 22:09:31][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":5}
+[2026-05-09 22:09:33][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 22:09:35][debug][TelegramBot] sendMessage → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":{\"message_id\":1404,\"from\":{\"id\":8660522615,\"is_bot\":true,\"first_name\":\"Nino\",\"username\":\"bakarfemboy_bot\"},\"chat\":{\"id\":7309669001,\"first_name\":\"Fams\",\"username\":\"famsma\",\"type\":\"p"}
+[2026-05-09 22:10:06][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[]}"}
+[2026-05-09 15:21:09][debug][PollingHandler] Long-polling started
+[2026-05-09 22:21:13][debug][Cron] Reminder worker started {"owner_id":"7309669001"}
+[2026-05-09 22:21:13][debug][Database] Applied migration: 001_initial.sql
+[2026-05-09 22:21:13][debug][Database] Applied migration: 002_memory_scoring.sql
+[2026-05-09 22:21:13][debug][Database] Applied migration: 003_conversation_meta.sql
+[2026-05-09 22:21:13][debug][Database] Applied migration: 005_fingerprints.sql
+[2026-05-09 22:21:13][debug][MoodEngine] Mood decayed from annoyed to cold {"hours":1322.6963888888888}
+[2026-05-09 15:21:24][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[{\"update_id\":48514397,\n\"message\":{\"message_id\":1405,\"from\":{\"id\":7309669001,\"is_bot\":false,\"first_name\":\"Fams\",\"username\":\"famsma\",\"language_code\":\"en\"},\"chat\":{\"id\":7309669001,\"f"}
+[2026-05-09 15:21:24][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":3}
+[2026-05-09 15:21:29][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 22:21:35][debug][TelegramBot] sendMessage → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":{\"message_id\":1406,\"from\":{\"id\":8660522615,\"is_bot\":true,\"first_name\":\"Nino\",\"username\":\"bakarfemboy_bot\"},\"chat\":{\"id\":7309669001,\"first_name\":\"Fams\",\"username\":\"famsma\",\"type\":\"p"}
+[2026-05-09 22:22:07][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[]}"}
+[2026-05-09 22:22:36][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[{\"update_id\":48514398,\n\"message\":{\"message_id\":1407,\"from\":{\"id\":7309669001,\"is_bot\":false,\"first_name\":\"Fams\",\"username\":\"famsma\",\"language_code\":\"en\"},\"chat\":{\"id\":7309669001,\"f"}
+[2026-05-09 22:22:36][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":85}
+[2026-05-09 22:22:37][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 22:22:40][debug][TelegramBot] sendMessage → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":{\"message_id\":1408,\"from\":{\"id\":8660522615,\"is_bot\":true,\"first_name\":\"Nino\",\"username\":\"bakarfemboy_bot\"},\"chat\":{\"id\":7309669001,\"first_name\":\"Fams\",\"username\":\"famsma\",\"type\":\"p"}
+[2026-05-09 22:22:50][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[{\"update_id\":48514399,\n\"message\":{\"message_id\":1409,\"from\":{\"id\":7309669001,\"is_bot\":false,\"first_name\":\"Fams\",\"username\":\"famsma\",\"language_code\":\"en\"},\"chat\":{\"id\":7309669001,\"f"}
+[2026-05-09 22:22:50][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":15}
+[2026-05-09 22:22:51][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 22:22:55][debug][TelegramBot] sendMessage → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":{\"message_id\":1410,\"from\":{\"id\":8660522615,\"is_bot\":true,\"first_name\":\"Nino\",\"username\":\"bakarfemboy_bot\"},\"chat\":{\"id\":7309669001,\"first_name\":\"Fams\",\"username\":\"famsma\",\"type\":\"p"}
+[2026-05-09 22:23:09][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[{\"update_id\":48514400,\n\"message\":{\"message_id\":1411,\"from\":{\"id\":7309669001,\"is_bot\":false,\"first_name\":\"Fams\",\"username\":\"famsma\",\"language_code\":\"en\"},\"chat\":{\"id\":7309669001,\"f"}
+[2026-05-09 22:23:09][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":26}
+[2026-05-09 22:23:10][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 22:23:13][debug][TelegramBot] sendMessage → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":{\"message_id\":1412,\"from\":{\"id\":8660522615,\"is_bot\":true,\"first_name\":\"Nino\",\"username\":\"bakarfemboy_bot\"},\"chat\":{\"id\":7309669001,\"first_name\":\"Fams\",\"username\":\"famsma\",\"type\":\"p"}
+[2026-05-09 22:23:26][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[{\"update_id\":48514401,\n\"message\":{\"message_id\":1413,\"from\":{\"id\":7309669001,\"is_bot\":false,\"first_name\":\"Fams\",\"username\":\"famsma\",\"language_code\":\"en\"},\"chat\":{\"id\":7309669001,\"f"}
+[2026-05-09 22:23:26][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":33}
+[2026-05-09 22:23:27][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 22:23:32][debug][TelegramBot] sendMessage → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":{\"message_id\":1414,\"from\":{\"id\":8660522615,\"is_bot\":true,\"first_name\":\"Nino\",\"username\":\"bakarfemboy_bot\"},\"chat\":{\"id\":7309669001,\"first_name\":\"Fams\",\"username\":\"famsma\",\"type\":\"p"}
+[2026-05-09 22:23:39][debug][TelegramBot] getUpdates → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":[{\"update_id\":48514402,\n\"message\":{\"message_id\":1415,\"from\":{\"id\":7309669001,\"is_bot\":false,\"first_name\":\"Fams\",\"username\":\"famsma\",\"language_code\":\"en\"},\"chat\":{\"id\":7309669001,\"f"}
+[2026-05-09 22:23:39][debug][PollingHandler] Received message {"from":"Fams","has_image":false,"text_len":5}
+[2026-05-09 22:23:41][debug][TelegramBot] sendChatAction → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":true}"}
+[2026-05-09 22:23:44][debug][TelegramBot] sendMessage → HTTP 200 {"response_snippet":"{\"ok\":true,\"result\":{\"message_id\":1416,\"from\":{\"id\":8660522615,\"is_bot\":true,\"first_name\":\"Nino\",\"username\":\"bakarfemboy_bot\"},\"chat\":{\"id\":7309669001,\"first_name\":\"Fams\",\"username\":\"famsma\",\"type\":\"p"}

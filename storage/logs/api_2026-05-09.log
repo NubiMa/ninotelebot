@@ -1,0 +1,11 @@
+{"ts":"2026-05-09T22:04:00+07:00","provider":"Gemini","http_code":403,"prompt_tokens":"N/A","output_tokens":"N/A","total_tokens":"N/A","latency_ms":514.87}
+{"ts":"2026-05-09T22:09:09+07:00","provider":"Gemini","http_code":403,"prompt_tokens":"N/A","output_tokens":"N/A","total_tokens":"N/A","latency_ms":1067.51}
+{"ts":"2026-05-09T22:09:13+07:00","provider":"Gemini","http_code":403,"prompt_tokens":"N/A","output_tokens":"N/A","total_tokens":"N/A","latency_ms":1492.84}
+{"ts":"2026-05-09T22:09:16+07:00","provider":"Gemini","http_code":403,"prompt_tokens":"N/A","output_tokens":"N/A","total_tokens":"N/A","latency_ms":363.36}
+{"ts":"2026-05-09T22:09:34+07:00","provider":"Gemini","http_code":403,"prompt_tokens":"N/A","output_tokens":"N/A","total_tokens":"N/A","latency_ms":264.72}
+{"ts":"2026-05-09T22:21:31+07:00","provider":"OpenAI-Gateway","http_code":200,"prompt_tokens":2306,"output_tokens":59,"total_tokens":2365,"latency_ms":2519.18}
+{"ts":"2026-05-09T22:22:40+07:00","provider":"OpenAI-Gateway","http_code":200,"prompt_tokens":2409,"output_tokens":90,"total_tokens":2499,"latency_ms":2313.49}
+{"ts":"2026-05-09T22:22:54+07:00","provider":"OpenAI-Gateway","http_code":200,"prompt_tokens":2515,"output_tokens":70,"total_tokens":2585,"latency_ms":3142.89}
+{"ts":"2026-05-09T22:23:12+07:00","provider":"OpenAI-Gateway","http_code":200,"prompt_tokens":2608,"output_tokens":54,"total_tokens":2662,"latency_ms":2003.75}
+{"ts":"2026-05-09T22:23:31+07:00","provider":"OpenAI-Gateway","http_code":200,"prompt_tokens":2686,"output_tokens":80,"total_tokens":2766,"latency_ms":3681.78}
+{"ts":"2026-05-09T22:23:43+07:00","provider":"OpenAI-Gateway","http_code":200,"prompt_tokens":2778,"output_tokens":41,"total_tokens":2819,"latency_ms":2256.8}

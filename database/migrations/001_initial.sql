@@ -1,0 +1,7 @@
+-- Migration 001: Initial schema (already created by Database::initTables)
+-- This file documents the baseline schema only. No SQL is executed.
+--
+-- memories:      id, fact, created_at
+-- reminders:     id, trigger_time, message, is_sent, is_cancelled, created_at
+-- conversations: id, role, content, created_at
+-- relationship:  key, value, updated_at

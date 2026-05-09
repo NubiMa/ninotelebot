@@ -1,0 +1,70 @@
+[2026-05-09 22:03:56][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:03:56][error][Cron] Exception in reminder loop {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 15:03:59][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:03:59][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:03:59][error][MemoryManager] DB connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:03:59][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:03:59][error][AiClient] Failed to load memory/relationship for prompt {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:03:59][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:03:59][error][AiClient] Failed to save user turn to DB {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:08:52][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:08:52][error][Cron] Exception in reminder loop {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 15:09:08][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:08][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:08][error][MemoryManager] DB connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:08][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:08][error][AiClient] Failed to load memory/relationship for prompt {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:08][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:08][error][AiClient] Failed to save user turn to DB {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:09][error][AiClient] API error HTTP 403 from Gemini {"model":"gemini-2.0-flash","response":"{   \"error\": {     \"code\": 403,     \"message\": \"Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.\",     \"status\": \"PERMISSION_DENIED\"   } } "}
+[2026-05-09 22:09:09][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:09][error][AiClient] Failed to save model turn to DB {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:12][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:12][error][MemoryManager] DB connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:12][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:12][error][AiClient] Failed to load memory/relationship for prompt {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:12][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:12][error][AiClient] Failed to save user turn to DB {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:13][error][AiClient] API error HTTP 403 from Gemini {"model":"gemini-2.0-flash","response":"{   \"error\": {     \"code\": 403,     \"message\": \"Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.\",     \"status\": \"PERMISSION_DENIED\"   } } "}
+[2026-05-09 22:09:13][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:13][error][AiClient] Failed to save model turn to DB {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:16][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:16][error][MemoryManager] DB connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:16][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:16][error][AiClient] Failed to load memory/relationship for prompt {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:16][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:16][error][AiClient] Failed to save user turn to DB {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:16][error][AiClient] API error HTTP 403 from Gemini {"model":"gemini-2.0-flash","response":"{   \"error\": {     \"code\": 403,     \"message\": \"Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.\",     \"status\": \"PERMISSION_DENIED\"   } } "}
+[2026-05-09 22:09:16][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:16][error][AiClient] Failed to save model turn to DB {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:33][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:33][error][MemoryManager] DB connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:33][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:33][error][AiClient] Failed to load memory/relationship for prompt {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:33][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:33][error][AiClient] Failed to save user turn to DB {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:34][error][AiClient] API error HTTP 403 from Gemini {"model":"gemini-2.0-flash","response":"{   \"error\": {     \"code\": 403,     \"message\": \"Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.\",     \"status\": \"PERMISSION_DENIED\"   } } "}
+[2026-05-09 22:09:34][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:34][error][AiClient] Failed to save model turn to DB {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:52][error][Database] Connection failed {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:09:52][error][Cron] Exception in reminder loop {"exception":"PDOException","msg":"could not find driver","at":"/home/fams/ninotelebot/app/Database.php:31"}
+[2026-05-09 22:21:13][error][Database] Migration failed: 004_indexes.sql {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:125"}
+[2026-05-09 15:21:29][error][Database] Migration failed: 004_indexes.sql {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:125"}
+[2026-05-09 22:21:29][error][AiClient] Failed to load memory/relationship for prompt {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: tags","at":"/home/fams/ninotelebot/app/Memory/MemoryManager.php:43"}
+[2026-05-09 22:21:29][error][AiClient] Failed to save user turn to DB {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:238"}
+[2026-05-09 22:21:31][error][AiClient] Failed to save model turn to DB {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:238"}
+[2026-05-09 22:22:37][error][AiClient] Failed to load memory/relationship for prompt {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: tags","at":"/home/fams/ninotelebot/app/Memory/MemoryManager.php:43"}
+[2026-05-09 22:22:37][error][AiClient] Failed to save user turn to DB {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:238"}
+[2026-05-09 22:22:40][error][AiClient] Failed to save model turn to DB {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:238"}
+[2026-05-09 22:22:51][error][AiClient] Failed to load memory/relationship for prompt {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: tags","at":"/home/fams/ninotelebot/app/Memory/MemoryManager.php:43"}
+[2026-05-09 22:22:51][error][AiClient] Failed to save user turn to DB {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:238"}
+[2026-05-09 22:22:54][error][AiClient] Failed to save model turn to DB {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:238"}
+[2026-05-09 22:23:10][error][AiClient] Failed to load memory/relationship for prompt {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: tags","at":"/home/fams/ninotelebot/app/Memory/MemoryManager.php:43"}
+[2026-05-09 22:23:10][error][AiClient] Failed to save user turn to DB {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:238"}
+[2026-05-09 22:23:12][error][AiClient] Failed to save model turn to DB {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:238"}
+[2026-05-09 22:23:27][error][AiClient] Failed to load memory/relationship for prompt {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: tags","at":"/home/fams/ninotelebot/app/Memory/MemoryManager.php:43"}
+[2026-05-09 22:23:27][error][AiClient] Failed to save user turn to DB {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:238"}
+[2026-05-09 22:23:31][error][AiClient] Failed to save model turn to DB {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:238"}
+[2026-05-09 22:23:41][error][AiClient] Failed to load memory/relationship for prompt {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: tags","at":"/home/fams/ninotelebot/app/Memory/MemoryManager.php:43"}
+[2026-05-09 22:23:41][error][AiClient] Failed to save user turn to DB {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:238"}
+[2026-05-09 22:23:43][error][AiClient] Failed to save model turn to DB {"exception":"PDOException","msg":"SQLSTATE[HY000]: General error: 1 no such column: importance","at":"/home/fams/ninotelebot/app/Database.php:238"}
